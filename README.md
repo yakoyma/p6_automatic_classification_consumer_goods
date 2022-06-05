@@ -1,0 +1,1 @@
+# P6-automatic-classification-consumer-goods
