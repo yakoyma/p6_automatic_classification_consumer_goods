@@ -2,7 +2,7 @@
 
 Parcours Data Scientist d'OpenClassrooms en partenariat avec CentraleSupélec.
 
-L'objectif du projet est d'effectuer une étude de faisabilité rapide d'un moteur de classification de biens de consommation. Le notebook réalisé permet de traiter, d'extraire les features des données textuelles et visuelles, de les analyser et de les comparer par une approche de classification non supervisée. Une approche facultative rapide de classification supervisée est également implémentée en annexe.
+L'objectif du projet est d'effectuer une étude de faisabilité rapide d'un moteur de classification des biens de consommation. Le notebook réalisé permet de traiter, d'extraire les features des données textuelles et visuelles, de les analyser et de les comparer par une approche de classification non supervisée. Une approche facultative rapide de classification supervisée est également implémentée en annexe.
 
 La composition du jeu de données :
 - Un fichier csv contenant les caractéristiques de 1050 articles.
